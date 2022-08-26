@@ -13,6 +13,6 @@
 
 
 
-# modelo-curriculo
+### modelo-curriculo
 
-## 🏷️ modelo de pagina web para currículo online. Feito em html e css.( Nao é de minha autoria , peguei o projeto na internet.)
+### 🏷️ modelo de pagina web para currículo online. Feito em html e css.( Nao é de minha autoria , peguei o projeto na internet.)
